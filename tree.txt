@@ -1,0 +1,303 @@
+.
+├── ai.meta
+│   ├── 1. cm3 - a casual masked multimodal model of the internet - 2201.07520.pdf
+│   ├── 2. Unified Pre-training for Program Understanding and Generation.pdf
+│   ├── 3.  SantaCoder - Dont reach for the stars - 2301.03988.pdf
+│   ├── 4. The adverse effects of code duplication in machine learning models of code..pdf
+│   ├── code-llama.pdf
+│   └── README.md
+├── amit-j-daniel
+│   ├── attractor neural networks and biological reality - associative memory and learning.pdf
+│   ├── information storage in neural networks with low level of activity.pdf
+│   ├── optimizing one-shot learning with binary synapses.pdf
+│   ├── README.md
+│   ├── spin glass models of neural networks.pdf
+│   └── storing infinite number of patterns in a spin-glass model of neural networks.pdf
+├── Attention Is All You Need
+│   ├── AIAYN.01 - Layer Normalization - 1607.06450v1.pdf
+│   ├── AIAYN.02 - Neural Machine Translation by Jointly Learning to Align and Translate - 1409.0473v7.pdf
+│   ├── AIAYN.04 - Long Short-Term Memory-Networks for Machine Reading - 1601.06733v7.pdf
+│   ├── AIAYN.05 - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation - 1406.1078v3.pdf
+│   ├── AIAYN.06 - Xception - Deep Learning with Depthwise Separable Convolutions - 1610.02357v3.pdf
+│   ├── AIAYN.08 - Recurrent Neural Network Grammars - 1602.07776v4.pdf
+│   ├── AIAYN.09 - Convolutional Sequence to Sequence Learning - 1705.03122v3.pdf
+│   ├── AIAYN.10 - Generating Sequences With Recurrent Neural Networks - 1308.0850v5.pdf
+│   ├── AIAYN.11 - Deep Residual Learning for Image Recognition - 1512.03385v1.pdf
+│   ├── AIAYN.15 - Exploring the Limits of Language Modeling - 1602.02410v2.pdf
+│   ├── AIAYN.18 - Neural Machine Translation in Linear Time - 1610.10099v2.pdf
+│   ├── AIAYN.21 - Factorization tricks for LSTM networks - 1703.10722v3.pdf
+│   ├── AIAYN.22 - A Structured Self-attentive Sentence Embedding - 1703.03130v1.pdf
+│   ├── AIAYN.32 - Outrageously Large Neural Networks - The Sparsely-Gated Mixture-of-Experts Layer - 1701.06538v1.pdf
+│   ├── AIAYN.38 - Googles Neural Machine Translation System - Bridging the Gap between Human and Machine Translation - 1609.08144v2.pdf
+│   ├── Attention is all you need - 1706.03762v7.pdf
+│   └── README.md
+├── LICENSE
+├── LSTM - Long Short Term Memory
+│   ├── evolving memory cell structures for sequence learning - bayer2009.pdf
+│   ├── long short-term memory - 2604.pdf
+│   ├── LSTM A Search Space Odyssey - 1503.04069.pdf
+│   ├── LSTM.pdf
+│   └── README.md
+├── openai
+│   ├── Adversarial video generation on complex datasets - sora-ref-6 - 1907.06571.pdf
+│   ├── Align your latents High-resolution video synthesis with latent diffusion models - sora-ref-11 - 2304.08818.pdf
+│   ├── An image is worth 16x16 words Transformers for image recognition at scale - sora-ref-15 - 2010.11929.pdf
+│   ├── Attention is all you need - sora-ref-13 - 1706.03762.pdf
+│   ├── Auto-encoding variational bayes - sora-ref-20 - 1312.6114.pdf
+│   ├── dall-e-3.pdf
+│   ├── Deep unsupervised learning using nonequilibrium thermodynamics - sora-ref-21 - 1503.03585.pdf
+│   ├── Denoising diffusion probabilistic models - sora-ref-22 - 2006.11239.pdf
+│   ├── Diffusion Models Beat GANs on Image Synthesis - sora-ref-24 - 2105.05233.pdf
+│   ├── Elucidating the design space of diffusion-based generative models - sora-ref-25 - 2206.00364.pdf
+│   ├── Generating long videos of dynamic scenes - sora-ref-7 - 2206.03429.pdf
+│   ├── Generating Videos with Scene Dynamics - sora-ref-4 - 1609.02612.pdf
+│   ├── Generative_Pretraining_from_Pixels_V2 - sora-ref-27.pdf
+│   ├── gpt-4-system-card.pdf
+│   ├── Hierarchical text-conditional image generation with clip latents - sora-ref-31 - 2204.06125.pdf
+│   ├── High-resolution image synthesis with latent diffusion models - sora-ref-19 - 2112.10752.pdf
+│   ├── Imagen video High definition video generation with diffusion models - sora-ref-10 - 2210.02303.pdf
+│   ├── Improved denoising diffusion probabilistic models - sora-ref-23 - 2102.09672.pdf
+│   ├── Language models are few-shot learners - sora-ref-14 - 2005.14165.pdf
+│   ├── Masked autoencoders are scalable vision learners - sora-ref-17 - 2111.06377.pdf
+│   ├── Mocogan: Decomposing motion and content for video generation - sora-ref-5 - 1707.04993.pdf
+│   ├── Nüwa Visual synthesis pre-training for neural visual world creation - sora-ref-9 - 2111.12417.pdf
+│   ├── PatchnPack NaViT a Vision Transformer for any Aspect Ratio and Resolution - sora-ref-18 - 2307.06304.pdf
+│   ├── Photorealistic video generation with diffusion models - sora-ref-12 - 2312.06662.pdf
+│   ├── README.md
+│   ├── Recurrent environment simulators - sora-ref-2 - 1704.02254.pdf
+│   ├── Scalable diffusion models with transformers - sora-ref-26 - 2212.09748.pdf
+│   ├── Scaling autoregressive models for content-rich text-to-image generation - sora-ref-29 - 2206.10789.pdf
+│   ├── SDEdit Guided image synthesis and editing with stochastic differential equations - sora-ref-32 - 2108.01073.pdf
+│   ├── Unsupervised Learning of Video Representations using LSTMs - sora-ref-1-1502.04681.pdf
+│   ├── Videogpt Video generation using vq-vae and transformers - sora-ref-8 - 2104.10157.pdf
+│   ├── ViViT A video vision transformer - sora-ref-16 - 2103.15691.pdf
+│   ├── world models - sora-ref-3 - 1803.10122.pdf
+│   └── Zero-shot text-to-image generation - sora-ref-28 - 2102.12092.pdf
+├── README.md
+├── tree.txt
+└── yann-le-cun
+    ├── 1006.0448.pdf
+    ├── 1010.0422.pdf
+    ├── 1010.3467.pdf
+    ├── 1105.5307.pdf
+    ├── 1108.1169.pdf
+    ├── 1202.2160.pdf
+    ├── 1202.6384.pdf
+    ├── 1204.3968.pdf
+    ├── 1206.1106.pdf
+    ├── 1212.0142.pdf
+    ├── 1301.1671.pdf
+    ├── 1301.3476.pdf
+    ├── 1301.3537.pdf
+    ├── 1301.3572.pdf
+    ├── 1301.3577.pdf
+    ├── 1301.3764.pdf
+    ├── 1301.3775.pdf
+    ├── 1311.4025.pdf
+    ├── 1312.1847.pdf
+    ├── 1312.5851.pdf
+    ├── 1312.6203.pdf
+    ├── 1312.6229.pdf
+    ├── 1404.0736.pdf
+    ├── 1404.7195.pdf
+    ├── 1406.2984.pdf
+    ├── 1409.4326.pdf
+    ├── 1409.7963.pdf
+    ├── 1410.6973.pdf
+    ├── 1411.4280.pdf
+    ├── 1412.0233.pdf
+    ├── 1412.6056.pdf
+    ├── 1412.6615.pdf
+    ├── 1412.6651.pdf
+    ├── 1412.7022.pdf
+    ├── 1412.7580.pdf
+    ├── 1502.01710.pdf
+    ├── 1503.03438.pdf
+    ├── 1504.02518.pdf
+    ├── 1506.02351.pdf
+    ├── 1506.03011.pdf
+    ├── 1506.05163.pdf
+    ├── 1509.01626.pdf
+    ├── 1509.03591.pdf
+    ├── 1509.08967.pdf
+    ├── 1510.05970.pdf
+    ├── 1511.03719.pdf
+    ├── 1511.05212.pdf
+    ├── 1511.05440.pdf
+    ├── 1511.05666.pdf
+    ├── 1511.06444.pdf
+    ├── 1602.06662.pdf
+    ├── 1605.00971.pdf
+    ├── 1605.00972.pdf
+    ├── 1605.00982.pdf
+    ├── 1605.00983.pdf
+    ├── 1606.01535.pdf
+    ├── 1606.01781.pdf
+    ├── 1606.08057.pdf
+    ├── 1609.03126.pdf
+    ├── 1611.01838.pdf
+    ├── 1611.03383.pdf
+    ├── 1611.07476.pdf
+    ├── 1611.08097.pdf
+    ├── 1612.03969.pdf
+    ├── 1612.05231.pdf
+    ├── 1703.07684.pdf
+    ├── 1705.07177.pdf
+    ├── 1706.04223.pdf
+    ├── 1708.02657.pdf
+    ├── 1709.01062.pdf
+    ├── 1711.04994.pdf
+    ├── 1711.11248.pdf
+    ├── 1802.01817.pdf
+    ├── 1803.06969.pdf
+    ├── 1803.11496.pdf
+    ├── 1804.00921.pdf
+    ├── 1805.12076.pdf
+    ├── 1806.00499.pdf
+    ├── 1806.05662.pdf
+    ├── 1811.04201.pdf
+    ├── 1812.01161.pdf
+    ├── 1901.02705.pdf
+    ├── 1902.08401.pdf
+    ├── 1904.03148.pdf
+    ├── 1906.11661.pdf
+    ├── 2010.00679.pdf
+    ├── 2103.03230.pdf
+    ├── 2103.15949.pdf
+    ├── 2104.12763.pdf
+    ├── 2105.04906.pdf
+    ├── 2107.07110.pdf
+    ├── 2110.06848.pdf
+    ├── 2110.09348.pdf
+    ├── 2110.09485.pdf
+    ├── 2112.09214.pdf
+    ├── 2201.10000.pdf
+    ├── 2202.08325.pdf
+    ├── 2203.05483.pdf
+    ├── 2204.03632.pdf
+    ├── 2204.07184.pdf
+    ├── 2205.10279.pdf
+    ├── 2205.11508.pdf
+    ├── 2206.02574.pdf
+    ├── 2206.07643.pdf
+    ├── 2206.07700.pdf
+    ├── 2206.08954.pdf
+    ├── 2206.10698.pdf
+    ├── 2207.10081.pdf
+    ├── 2208.12345.pdf
+    ├── 2209.14884.pdf
+    ├── 2209.14905.pdf
+    ├── 2209.15261.pdf
+    ├── 2210.01571.pdf
+    ├── 2210.02885.pdf
+    ├── 2210.04135.pdf
+    ├── 2210.08340.pdf
+    ├── 2210.16782.pdf
+    ├── 2211.01340.pdf
+    ├── 2211.10831.pdf
+    ├── 2212.13350.pdf
+    ├── 2301.08243.pdf
+    ├── 2302.01647.pdf
+    ├── 2302.02774.pdf
+    ├── 2302.07842.pdf
+    ├── 2302.10283.pdf
+    ├── 2303.00633.pdf
+    ├── 2303.15256.pdf
+    ├── 2304.03977.pdf
+    ├── 2304.09355.pdf
+    ├── 2304.12210.pdf
+    ├── 2305.15614.pdf
+    ├── 2305.19523.pdf
+    ├── 2306.02572.pdf
+    ├── 2306.13292.pdf
+    ├── 2307.05432.pdf
+    ├── 2307.12698.pdf
+    ├── 2308.00566.pdf
+    ├── 2310.04496.pdf
+    ├── 2311.12983.pdf
+    ├── 2312.17227.pdf
+    ├── 2401.06209.pdf
+    ├── 2401.11188.pdf
+    ├── 2402.07630.pdf
+    ├── 2402.11337.pdf
+    ├── 2403.00504.pdf
+    ├── 2404.08471.pdf
+    ├── 2404.09991.pdf
+    ├── 2405.01469.pdf
+    ├── 2405.05012.pdf
+    ├── 2405.10292.pdf
+    ├── 2405.15802.pdf
+    ├── 2405.18418.pdf
+    ├── 2406.09366.pdf
+    ├── 2406.11463.pdf
+    ├── 2406.16860.pdf
+    ├── 2406.19314.pdf
+    ├── 2407.18134.pdf
+    ├── 2408.11208.pdf
+    ├── 2410.21256.pdf
+    ├── 2411.02344.pdf
+    ├── 2411.04983.pdf
+    ├── 2411.15931.pdf
+    ├── 2411.17662.pdf
+    ├── 2412.03572.pdf
+    ├── 2412.07169.pdf
+    ├── 2412.09563.pdf
+    ├── 2412.10925.pdf
+    ├── 2412.14164.pdf
+    ├── 2502.02013.pdf
+    ├── 2502.11831.pdf
+    ├── 2502.14819.pdf
+    ├── 2502.15969.pdf
+    ├── 2503.10622.pdf
+    ├── 2504.01017.pdf
+    ├── 2505.17117.pdf
+    ├── 2505.20425.pdf
+    ├── 2506.09985.pdf
+    ├── 2506.21552.pdf
+    ├── 2507.19468.pdf
+    ├── 2509.14252.pdf
+    ├── 2510.05949.pdf
+    ├── 2510.06477.pdf
+    ├── 2511.04670.pdf
+    ├── 2511.08544.pdf
+    ├── 2512.05094.pdf
+    ├── 2512.07168.pdf
+    ├── 2512.09929.pdf
+    ├── 2512.10942.pdf
+    ├── 2512.13644.pdf
+    ├── 2512.21204.pdf
+    ├── 2512.24497.pdf
+    ├── 2601.00844.pdf
+    ├── 2601.05230.pdf
+    ├── 2601.16208.pdf
+    ├── 2602.00475.pdf
+    ├── 2602.01456.pdf
+    ├── 2602.03604.pdf
+    ├── 2602.08968.pdf
+    ├── 2602.09040.pdf
+    ├── 2602.11389.pdf
+    ├── 2602.14272.pdf
+    ├── 2602.22617.pdf
+    ├── 2602.23643.pdf
+    ├── 2603.03276.pdf
+    ├── 2603.05225.pdf
+    ├── 2603.05498.pdf
+    ├── 2603.12231.pdf
+    ├── 2603.13227.pdf
+    ├── 2603.14482.pdf
+    ├── 2603.15381.pdf
+    ├── 2603.19312.pdf
+    ├── 2604.03208.pdf
+    ├── 2605.06732.pdf
+    ├── 2605.13986.pdf
+    ├── 2605.14759.pdf
+    ├── 2605.21800.pdf
+    ├── 2605.26379.pdf
+    ├── 2606.08775.pdf
+    ├── 2606.15956.pdf
+    ├── 2606.19398.pdf
+    ├── 2606.23444.pdf
+    ├── 2606.32026.pdf
+    └── README.md
+
+7 directories, 294 files

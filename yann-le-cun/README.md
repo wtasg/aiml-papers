@@ -16,3 +16,16 @@ do
     curl -O "$file";
 done
 ```
+
+---
+
+Rename files to pdf
+
+```bash
+find . -type f -print0 |
+while IFS= read -r -d '' file; do
+    if [ "$(file --brief --mime-type -- "$file")" = "application/pdf" ] && [ "${file##*.}" != "pdf" ]; then
+        echo "$file"; mv -- "$file" "$file.pdf";
+    fi
+done
+```
